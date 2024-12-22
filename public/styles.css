@@ -28,7 +28,7 @@ a:hover {
 
 /* Hero Section with Stretched Background */
 .hero {
-    background: url('public/truck.jpeg') no-repeat center center; /* Center the truck image */
+    background: url('truck.jpeg') no-repeat center center; /* Center the truck image */
     background-size: cover; /* Stretch to fill the width while maintaining proportions */
     height: 80vh; /* Set a height for the hero section */
     position: relative;
