@@ -44,7 +44,7 @@ body {
 
 /* Hero Section */
 .hero {
-    background: url('truck.jpeg') no-repeat center center;
+    background: url('/truck.jpeg') no-repeat center center;
     background-size: cover;
     height: 80vh;
     display: flex;
