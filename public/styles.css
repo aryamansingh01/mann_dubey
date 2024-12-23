@@ -217,7 +217,7 @@ footer {
 }
 /* Hero Section */
 .hero {
-    background: url('truck-image.jpeg') no-repeat center center;
+    background: url('public/truck.jpeg') no-repeat center center;
     background-size: cover;
     height: 80vh;
     display: flex;
